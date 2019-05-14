@@ -1,0 +1,99 @@
+[id] 1
+[nom] Ragnaros
+[gkmn1] 3
+[gkmn2] 5
+[gkmn3] 0
+[gkmn4] 0
+[nbGkmn] 2
+[texte] MEURS INSECTE !
+[recompense] 200
+
+[id] 2
+[nom] Nami
+[gkmn1] 14
+[gkmn2] 10
+[gkmn3] 0
+[gkmn4] 0
+[nbGkmn] 2
+[texte] Je me sens comme un poisson dans l'eau
+[recompense] 200
+
+[id] 3
+[nom] Sakura
+[gkmn1] 1
+[gkmn2] 4
+[gkmn3] 0
+[gkmn4] 0
+[nbGkmn] 2
+[texte] Tombe devant ma beauté.
+[recompense] 200
+
+[id] 4
+[nom] Kirche
+[gkmn1] 12
+[gkmn2] 16
+[gkmn3] 9
+[gkmn4] 0
+[nbGkmn] 3
+[texte] Je me sens chaude tout d'un coup...
+[recompense] 300
+
+[id] 5
+[nom] Ordralfabétix
+[gkmn1] 2
+[gkmn2] 6
+[gkmn3] 10
+[gkmn4] 0
+[nbGkmn] 3
+[texte] Il est pas frais mon poisson ?!
+[recompense] 300
+
+[id] 6
+[nom] Jamaïcain
+[gkmn1] 13
+[gkmn2] 8
+[gkmn3] 15
+[gkmn4] 0
+[nbGkmn] 3
+[texte] Tu veux gouter à mon herbe ?
+[recompense] 300
+
+[id] 7
+[nom] Pyromane
+[gkmn1] 3
+[gkmn2] 16
+[gkmn3] 18
+[gkmn4] 11
+[nbGkmn] 4
+[texte] Ca va chauffer !
+[recompense] 500
+
+[id] 8
+[nom] Stratège
+[gkmn1] 17
+[gkmn2] 10
+[gkmn3] 2
+[gkmn4] 10
+[nbGkmn] 4
+[texte] Nooooon ... Mon plan est tombé à l'eau.
+[recompense] 500
+
+[id] 9
+[nom] Jardinier 
+[gkmn1] 7
+[gkmn2] 15
+[gkmn3] 1
+[gkmn4] 4
+[nbGkmn] 4
+[texte] Tu veux gouter à mes légumes mon chou ?
+[recompense] 500
+
+[id] 10
+[nom] Chimiste Adrien
+[gkmn1] 19
+[gkmn2] 20
+[gkmn3] 21
+[gkmn4] 22
+[nbGkmn] 4
+[texte] Tu as vu ma fiole Jaugey ?
+[recompense] 2000

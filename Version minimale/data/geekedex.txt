@@ -1,0 +1,219 @@
+[id] 1
+[nom] Vash the Stampede
+[resume] Grand, blond et les cheveux coiffés en pétard, il porte le surnom de Typhon Humain. Il est recherché mort ou vif car il est accusé d'avoir anéanti des villes entières.
+[race] Plante Humanoïde
+[element] 8
+[carac] force
+[agi] 10
+[strength] 20
+[endu] 10
+
+[id] 2
+[nom] Happy
+[resume] Petit chat bleu avec le ventre blanc. IL a la capacité de voler et de parler. Il porte un petit sac vert qui contient du poisson. 
+[race] Exceed
+[element] 4
+[carac] agilite
+[agi] 20
+[strength] 10
+[endu] 10
+
+[id] 3
+[nom] Alucard
+[resume] Alucard le premier des vampires. Il porte un manteau rouge vif ainsi qu'un chapeau. Il a de longs cheveux noirs, et porte des lunettes à reflets jaunes. Il dispose d'un vaste panel de pouvoirs surnaturels et est un expert au combat aux armes à feu ce qui l''aide dans sa chasse au vampire.
+[race] Vampire
+[element] 2
+[carac] force
+[agi] 10
+[strength] 20
+[endu] 10
+
+[id] 4
+[nom] Lightning
+[resume] Ancien membre de l''armée, elle arbore une coupe de cheveux rosée ainsi qu''une épaulière, représentant son grade militaire. Elle combat avec un pistolame, qui se change en épée/fusil en un instant. Elle utilise aussi une technologie transgressant les lois de la gravité 
+[race] Humaine
+[element] 8
+[carac] agilite
+[agi] 20
+[strength] 10
+[endu] 10
+
+[id] 5
+[nom] Gandalf
+[resume] Puissant mage portant un grand chapeau bleu et pointu, une longue cape grise et une écharpe argent, surmontée d''une barbe blanche qui descend jusque sous la ceinture, ainsi que d’énormes bottes noires
+[race] Humain
+[element] 2
+[carac] endurance
+[agi] 10
+[strength] 10
+[endu] 20
+
+[id] 6
+[nom] Claire
+[resume] Guerrière Claymore dû à l'arme quelle manie.Elle a pour mission la protection des humains contre des monstres tels que les démons.
+[race] Demi Demon
+[element] 4
+[carac] force
+[agi] 10
+[strength] 20
+[endu] 10
+
+[id] 7
+[nom] Jules Winnfield
+[resume] ''Say ''Geekomon'' again, I dare you, I double dare you motherf*****!''
+[race] Humain
+[element] 8
+[carac] endurance
+[agi] 10
+[strength] 10
+[endu] 20
+
+[id] 8
+[nom] Dovahkiin
+[resume] Un héros de lignée draconique, le Dovahkiin (l'enfant de dragon) qui à pour mission de vaincre les dragons de Bordeciel, ramenés à la vie par Alduin, le Dévoreur de monde et empecher ce dernier de detruire le monde.
+[race] Fils de dragons
+[element] 8
+[carac] endurance
+[agi] 10
+[strength] 10
+[endu] 20
+
+[id] 9
+[nom] Dexter
+[resume] Expert medical et serial killer qui tue des criminels echappant au systeme judiciaire.
+[race] Humain
+[element] 2
+[carac] agilite
+[agi] 20
+[strength] 10
+[endu] 10
+
+[id] 10
+[nom] Joseph Joestar
+[resume] Un americain utilisant les ondes pour vaincre les hommes du pilier sous un fond musicale de ''Pillar men theme'' et ''To be continued...''
+[race] Humain
+[element] 4
+[carac] force
+[agi] 10
+[strength] 20
+[endu] 10
+
+[id] 11
+[nom] Bruce Wayne
+[resume] Homme sain d'esprit, intelligent et d'une moralité sans faille. Il est milliardaire et possède des entreprises rassemblées sous le nom générique de Wayne enterprises. Durant son enfance il a perdu ses parents tués sous ses yeux.
+[race] Humain
+[element] 2
+[carac] agilite
+[agi] 20
+[strength] 10
+[endu] 10
+
+[id] 12
+[nom] Mysterious Heroine Saber X 
+[resume] Mysterieuse assassin venant de l'espace dont le but est d''eliminer toutes les autres saber existantes
+[race] Servant
+[element] 2
+[carac] agilite
+[agi] 20
+[strength] 10
+[endu] 10
+
+[id] 13
+[nom] Black Widow
+[resume] Aventuriere et ex-espionne russe, elle travaille pour le SHIELD.
+[race] Humaine
+[element] 8
+[carac] agilite
+[agi] 20
+[strength] 10
+[endu] 10
+
+[id] 14
+[nom] Revy
+[resume] Une jeune femme splendide, mais également tête brulée. Elle est très efficace dans les combats. Il lui arrive parfois de devenir incontrôlable. Elle porte le surnom de  « Two-Hands ».
+[race] Humaine 
+[element] 4
+[carac] agilite
+[agi] 20
+[strength] 10
+[endu] 10
+
+[id] 15
+[nom] Pikachu
+[resume] Un pokemon venant de la region du kanto, ce pokemon n'arrete pas de repeter "Pika pika".
+[race] Souris electrique
+[element] 8
+[carac] endurance
+[agi] 10
+[strength] 10
+[endu] 20
+
+[id] 16
+[nom] Yandere girl
+[resume] Une yandere qui ne peut pas eliminer sa rival (le jeux est pas encore fini).
+[race] Humain
+[element] 2
+[carac] endurance
+[agi] 10
+[strength] 10
+[endu] 20
+
+[id] 17
+[nom] Ezio Auditore
+[resume] Maitre-assssin de l'ordre des assassin, il est en quete de reponse et de vengeance...
+[race] Humain
+[element] 4
+[carac] force
+[agi] 10
+[strength] 20
+[endu]  10
+
+[id] 18
+[nom] Powahran
+[resume] Jeune Amiral d''une flotte pirate possedant des cheveux twin-tail et un minigun pour combattre.
+[race] Jin
+[element] 2
+[carac] agilite
+[agi] 20
+[strength] 10
+[endu] 10
+
+[id] 19
+[nom] Tatsuya Shiba
+[resume] Jeune génie de la magie, sa puissance est équivalente à celle d''une bombe atomique. Il ne cesse de moderniser et faciliter l''utilisation de la magie.
+[race] Humain
+[element] 2
+[carac] endurance
+[agi] 71
+[strength] 71
+[endu] 170
+
+[id] 20
+[nom] Gurren Lagann
+[resume] Issu de la fusion des âmes frères de Gurren et Lagann Ganmens respectif de Simon et de Kamina. Il dépasse les limites du possible sa puissance est sans limite.
+[race] Mecha
+[element] 2
+[carac] force
+[agi] 93
+[strength] 180
+[endu] 83
+
+[id] 21
+[nom] Tank
+[resume] 
+[race] 
+[element] 8
+[carac] endurance
+[agi] 82
+[strength] 82
+[endu] 215
+
+[id] 22
+[nom] Pipette jaugée
+[resume] Rare pipette appartenant au celèbre chimiste.
+[race] Objet
+[element] 4
+[carac] Force
+[agi] 110
+[strength] 225
+[endu] 100

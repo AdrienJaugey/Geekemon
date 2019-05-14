@@ -1,0 +1,36 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{D6C97773-7173-4F04-9C20-B757EBADD4E1}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="Geekemonprog.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="Geekemonprog">
+        <MSBuild Projects="Geekemonprog.dproj"/>
+    </Target>
+    <Target Name="Geekemonprog:Clean">
+        <MSBuild Projects="Geekemonprog.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Geekemonprog:Make">
+        <MSBuild Projects="Geekemonprog.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="Geekemonprog"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="Geekemonprog:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="Geekemonprog:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

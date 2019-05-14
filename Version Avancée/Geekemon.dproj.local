@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/12/07 08:53:25.000.956,=\\iut21\Ressources\Users\Etudiants\IQ\IQ-1\md155007\Algorithme\Projet\Unit1.pas</Transaction>
+    <Transaction>2016/12/07 08:53:33.000.928,\\iut21\Ressources\Users\Etudiants\IQ\IQ-1\md155007\Algorithme\Projet\Unit1.pas=\\iut21\Ressources\Users\Etudiants\IQ\IQ-1\md155007\Algorithme\Projet\Progression.pas</Transaction>
+    <Transaction>2016/12/11 00:49:44.000.155,=D:\Bureau\Nouveau dossier (2)\GestionFichierTexte.pas</Transaction>
+    <Transaction>2016/12/12 22:10:45.000.160,=C:\Users\XeN0rex\Desktop\Version Avancée\Unit1.pas</Transaction>
+    <Transaction>2016/12/12 22:11:00.000.853,C:\Users\XeN0rex\Desktop\Version Avancée\TutoCapture.pas=C:\Users\XeN0rex\Desktop\Version Avancée\Unit1.pas</Transaction>
+    <Transaction>2016/12/12 22:11:15.000.013,C:\Users\XeN0rex\Desktop\Version Avancée\unites\TutoCapture.pas=C:\Users\XeN0rex\Desktop\Version Avancée\TutoCapture.pas</Transaction>
+    <Transaction>2016/12/12 23:01:55.000.653,=D:\Google Drive\IUT\Projet\Commun\Version Avancée avec tuto\unites\TutoCapture.pas</Transaction>
+    <Transaction>2016/12/15 14:25:07.000.961,=C:\Users\Maxime\Documents\Version avec sauvegarde\Unit1.pas</Transaction>
+    <Transaction>2016/12/15 14:25:32.000.351,C:\Users\Maxime\Documents\Version avec sauvegarde\Unit1.pas=C:\Users\Maxime\Documents\Version avec sauvegarde\unites\EcranTitre.pas</Transaction>
+    <Transaction>2016/12/17 21:50:42.000.389,D:\Bureau\PROJET GEEKEMON\Version Avancée\unites\TutoCapture.pas=D:\Bureau\PROJET GEEKEMON\Version Avancée\unites\Tuto.pas</Transaction>
+    <Transaction>2016/12/17 21:51:49.000.283,D:\Bureau\PROJET GEEKEMON\Version Avancée\unites\Tuto.pas=D:\Bureau\PROJET GEEKEMON\Version Avancée\unites\Tutorielpas.pas</Transaction>
+    <Transaction>2016/12/17 21:51:57.000.928,D:\Bureau\PROJET GEEKEMON\Version Avancée\unites\Tutorielpas.pas=D:\Bureau\PROJET GEEKEMON\Version Avancée\unites\Tutoriel.pas</Transaction>
+  </Transactions>  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="unites"/>
+    <File Path="unites\Combat.pas"/>
+    <File Path="unites\Geekemon_sous_programme.pas"/>
+    <File Path="unites\GestionEcran.pas"/>
+    <File Path="unites\GestionFichierTexte.pas"/>
+    <File Path="unites\GestionGeekemon.pas"/>
+    <File Path="unites\Localisation.pas"/>
+    <File Path="unites\ProgCombatAdversaire.pas"/>
+    <File Path="unites\progCombatJoueur.pas"/>
+    <File Path="unites\Tutoriel.pas"/>
+    <File Path="unites\TypePerso.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>

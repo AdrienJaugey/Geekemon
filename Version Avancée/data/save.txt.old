@@ -1,0 +1,61 @@
+[JOUEUR]
+
+[pseudo] Adrien
+[argent] 320
+[nbGkmn] 4
+[combat] TRUE
+[quete] FALSE
+[nbPotion] 12
+[gkmnEnStock] 2
+
+[EQUIPE]
+
+[id] 9
+[nom] Dexter
+[pv] 200
+[ko] FALSE
+[exp] 990
+[expmax] 1050
+[niveau] 6
+
+[id] 3
+[nom] Grobidou
+[pv] 160
+[ko] FALSE
+[exp] 480
+[expmax] 500
+[niveau] 4
+
+[id] 17
+[nom] Ezio Auditore
+[pv] 260
+[ko] FALSE
+[exp] 255
+[expmax] 2250
+[niveau] 9
+
+[id] 10
+[nom] Joseph Joestar
+[pv] 120
+[ko] FALSE
+[exp] 0
+[expmax] 150
+[niveau] 2
+
+[PC]
+
+[id] 17
+[nom] Ezio Auditore
+[pv] 100
+[ko] FALSE
+[exp] 0
+[expmax] 50
+[niveau] 1
+
+[id] 4
+[nom] Lightning
+[pv] 25
+[ko] FALSE
+[exp] 0
+[expmax] 150
+[niveau] 2

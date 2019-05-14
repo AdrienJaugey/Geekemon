@@ -1,0 +1,29 @@
+[JOUEUR]
+
+[pseudo] Michel
+[argent] 400
+[nbGkmn] 2
+[combat] TRUE
+[quete] FALSE
+[nbPotion] 5
+[gkmnEnStock] 0
+
+[EQUIPE]
+
+[id] 2
+[nom] Concon
+[pv] 100
+[ko] FALSE
+[exp] 0
+[expmax] 50
+[niveau] 1
+
+[id] 11
+[nom] Bruce Wayne
+[pv] 120
+[ko] FALSE
+[exp] 0
+[expmax] 150
+[niveau] 2
+
+[PC]
